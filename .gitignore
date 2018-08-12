@@ -1,0 +1,5 @@
+.env
+venv
+logs
+inventory.db
+.idea
