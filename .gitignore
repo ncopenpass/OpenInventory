@@ -3,3 +3,4 @@ venv
 logs
 inventory.db
 .idea
+__pycache__
